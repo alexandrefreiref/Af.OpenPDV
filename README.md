@@ -1,6 +1,7 @@
 # Af.OpenPDV
 
 Projeto em desenvolvimento...
+![alt text](preview.png "Menu Principal")
 
 Banco de Dados: SQL Server
 
