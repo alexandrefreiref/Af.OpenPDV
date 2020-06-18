@@ -27,6 +27,20 @@ namespace OpenPDV.Models
 
         public DateTime DataNascimento { get; set; }
 
+        public Cidade Cidade { get; set; }
+
+        public string CEP { get; set; }
+
+        public string Endereco { get; set; }
+
+        public string EnderecoNumero { get; set; }
+
+        public string Bairro { get; set; }
+
+        public string EnderecoReferencia { get; set; }
+
+        public string Observacao { get; set; }
+
         public bool Ativo { get; set; }
 
         public DateTime CriadoEm { get; set; }

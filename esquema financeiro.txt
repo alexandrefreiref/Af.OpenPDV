@@ -1,0 +1,10 @@
+transações
+--------------------------------------------------
+
+SPOTIFY           - 16,90   - MENSAL - FIXO     - DIA 10 - CARTÃO CRÉDITO NUBANK
+OFFICE            - 24,00   - MENSAL - FIXO     - DIA 23 - CARTÃO CRÉDITO DIGIO
+TAXA SICOOB       - 19,80   - MENSAL - FIXO     - DIA 05 - DÉBITO SICOOB
+TAXA BANCO BRASIL - 13,00   - MENSAL - FIXO     - DIA 05 - DÉBITO BANCO BRASIL
+ENERGIA           - 190,00  - MENSAL - VARIAVEL - DIA 15 - BOLETO
+ALUGUEL           - 450,00  - MENSAL - FIXO     - DIA 15 - DINHEIRO
+
